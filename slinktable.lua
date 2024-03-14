@@ -410,6 +410,3 @@ getgenv().RoSense = {
         ["TargetColor"] = {["Enabled"] = (false), ["Color"] = (Color3.fromRGB(255, 0, 0))} -- // The Box Will Change Color When You Have An Target
     }
 }
-
-script_key="Paste Key Here";
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/9b82911164ac8b8dbfbd17721dfcc3ae.lua"))()
